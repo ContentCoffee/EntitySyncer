@@ -1,0 +1,12 @@
+{
+    "name": "contentcoffee/entitysyncer",
+    "description": "Convenient helper that allows you to sync entities of any kind",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Content Coffee",
+            "email": "info@contentcoffee.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,6 +1,6 @@
 <?php
 
-namespace AppBundle\Helpers;
+namespace ContentCoffee\EntitySyncer;
 
 /**
  * Class EntitySyncer
